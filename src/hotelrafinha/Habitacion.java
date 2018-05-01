@@ -62,6 +62,9 @@ public class Habitacion {
     }
     
     //ahora crearemos el metodo de cambiar precio
-    
+    public double cambiarPrecioBase(){
+        precio=50;
+        return 50.03;
+    }
     
 }
