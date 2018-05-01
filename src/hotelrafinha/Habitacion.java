@@ -10,7 +10,6 @@ package hotelrafinha;
  * @author Lucho
  */
 
-//hola
 public class Habitacion {
     private String npiso;
     private double precio;
